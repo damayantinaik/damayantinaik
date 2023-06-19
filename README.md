@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Damayanti Naik
-- 👀 I’m interested in Python, SQL, Tableau, Data analytics and Machine learning, Physics
+- 👀 I’m interested in Python, SQL, Tableau, Data analytics and Machine Learning, Cloud computing, Physics
 - 🌱 I’m currently learning various Machine Learning models using Python 
-- 💞️ I’m looking to collaborate on Data science projects
+- 💞️ I’m looking to collaborate on Data science ML projects
 - 📫 How to reach me by e-mail.
 
 <!---
